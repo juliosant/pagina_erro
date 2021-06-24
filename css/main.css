@@ -1,0 +1,16 @@
+body{
+    padding: 0;
+    background-color: rgb(81, 81, 199);
+    background: linear-gradient(90deg, rgba(6,2,66,0.9584033442478554) 0%, rgba(29,29,171,1) 50%, rgba(2,141,170,1) 100%);
+}
+
+#msg-text0{
+    background-color: rgb(35, 129, 192);
+    border: none;
+}
+
+#msg-text1{
+    background-color: rgb(35, 129, 192);
+    border: none;
+}
+
